@@ -207,11 +207,7 @@ footer{
     cursor: pointer;
     transition: all 400ms;
 }
-.btn:hover{
-    padding: 8px 36px;
-    letter-spacing: 2px;
 
-}
 .center{
     text-align: center;
 }
