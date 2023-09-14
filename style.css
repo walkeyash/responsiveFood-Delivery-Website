@@ -109,6 +109,7 @@
     height: 160px;
     margin: auto;
     display: block;
+    cursor: pointer;
 }
 #services .box p{
     font-family: 'Bree Serif', serif;
